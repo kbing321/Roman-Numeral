@@ -1,3 +1,4 @@
+//I took the full four hours to complete this code.  I was planning on adding code to make sure a roman numeral less than 3,999 was input.
 #include <iostream>
 #include <string>
 using namespace std;
