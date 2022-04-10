@@ -1,4 +1,5 @@
-//I took the full four hours to complete this code.  I was planning on adding code to make sure a roman numeral less than 3,999 was input.
+//I took the full four hours to complete this code.  I was planning on adding code to make sure a number between 1 and 3,999 was input into both parts of the code.
+//Not having that condition allows the user to input an incorrect number and roman numeral which causes the wrong output.
 //I would have also tried to fix up the functions in order to shorten the overall code.
 #include <iostream>
 #include <string>
