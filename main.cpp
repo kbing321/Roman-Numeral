@@ -222,8 +222,7 @@ int main() {
             numeral = numeral + M;
         }
     }
-
-    cout << romNum << endl;
+    
     //Print the decimal form total of the roman numeral
     cout << "The Roman numeral as a decimal number is " << numeral << "." << endl << endl;
 
